@@ -1,3 +1,5 @@
+'use strict';
+
 console.log('test starting...');
 //check if button is clicked
 document.getElementById('button').addEventListener('click', buttonClicked);
